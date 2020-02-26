@@ -1,1 +1,1 @@
-Echo "Quality"
+Echo SYSTEMINFO
