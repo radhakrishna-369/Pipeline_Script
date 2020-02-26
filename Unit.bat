@@ -1,1 +1,1 @@
-Echo "Unit Testing"
+Echo %PATH%
