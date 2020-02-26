@@ -1,1 +1,1 @@
-Echo VER
+bat 'SYSTEMINFO'
