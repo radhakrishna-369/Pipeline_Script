@@ -1,1 +1,1 @@
-bat 'VER'
+VER
