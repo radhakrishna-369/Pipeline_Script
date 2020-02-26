@@ -1,1 +1,1 @@
-echo "VOL"
+echo VOL
