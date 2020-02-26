@@ -1,1 +1,1 @@
-bat 'echo %PATH%'
+%PATH%
