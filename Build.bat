@@ -1,1 +1,1 @@
-bat VOL
+echo "VOL"
