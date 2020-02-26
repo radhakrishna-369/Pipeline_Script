@@ -1,1 +1,1 @@
-Echo "deploy"
+Echo VER
